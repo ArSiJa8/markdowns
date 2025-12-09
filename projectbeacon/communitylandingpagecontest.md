@@ -48,6 +48,7 @@ A **final vote** will determine the **ultimate winner** 🏆.
 - With the winner, we will discuss internally how the final delivery should be handled.
 - You may also create a **demo website** if you want to showcase effects that can't be explained well in an image.
 - If you include **scroll effects or animations**, please also attach a **video** so the effects can be seen clearly.
+- you can submit it in <>
 
 ---
 
