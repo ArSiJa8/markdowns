@@ -57,3 +57,7 @@ A **final vote** will determine the **ultimate winner** 🏆.
 🔗 **Link:** *https://projectbeacon.world*
 
 ![Current Design of the Website.](https://i.ibb.co/SDXqFWys/IMG-1602.jpg)
+
+---
+
+## The following Logos of our Partners have to be included on the Site!
